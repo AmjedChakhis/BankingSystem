@@ -13,7 +13,7 @@ A simple banking system that demonstrates core banking operations including depo
 ## Project Structure
 
 ```
-BankingService/
+BankingSystem/
 ├── src/
 │   ├── Account.java              # Core banking account implementation
 │   ├── AccountService.java       # Banking operations interface
