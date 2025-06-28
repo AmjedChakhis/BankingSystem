@@ -18,7 +18,7 @@ BankingSystem/
 │   ├── Account.java              # Core banking account implementation
 │   ├── AccountService.java       # Banking operations interface
 │   ├── AccountTest.java          # Automated testing suite
-│   ├── ATM.java                  # Interactive user interface
+│   ├── ATM.java                  # Interactive CLI
 │   └── Transaction.java          # Transaction data model
 └── README.md                     # Project documentation
 ```
